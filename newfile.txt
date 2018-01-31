@@ -1,1 +1,3 @@
 Hi, This is file 1 content in master branch
+I am keeping both the changes here
+Hello This is file 1 content in dev branch
