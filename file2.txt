@@ -4,3 +4,4 @@ I hope you are fine.
 Some changes to be reverted soon.
 Some more changes in the end to make it better.
 A few more changes to check difference from staging area.
+Few Changes done to check for stash and pop operations.
